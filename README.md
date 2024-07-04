@@ -1,4 +1,4 @@
-# SMPC
+# SMPC-PYTHON
 <br>
 <div align="center"> 
    <img src="https://github.com/vid-db/fb_clone/assets/153529283/172cf0ae-cf0e-4372-8ce9-ee58b5b593b5" width="400"/>  <br><br>
